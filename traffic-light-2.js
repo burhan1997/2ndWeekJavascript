@@ -31,9 +31,9 @@ while (cycle < 2) {
 }
 
         
-  }
   
-}
+  
+
 
 /**
  * The output should be:
